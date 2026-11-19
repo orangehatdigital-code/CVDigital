@@ -16,6 +16,14 @@
 
 [Özellikler](#-öne-çıkan-özellikler) • [Hızlı Kurulum](#-hızlı-kurulum) • [Mimari](#-proje-mimarisi) • [Yeni Profil Ekleme](#-yeni-cv-profili-ekleme) • [Geliştiriciler](#-geliştiriciler--marka)
 
+<br /><br />
+
+<img src="./cv-digital.png" alt="CV Dijital - Canlı Web Editörü ve Akıllı A4 Sayfa Önizleme" width="100%" />
+
+<p align="center">
+  <sub>✨ <b>Çift Panelli Akıllı Mimari:</b> Sol panelde modüler form editörü, sağ panelde anlık milimetrik A4 sayfalama ve ATS önizlemesi.</sub>
+</p>
+
 </div>
 
 ---
