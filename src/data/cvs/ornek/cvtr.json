@@ -1,0 +1,150 @@
+{
+  "personal": {
+    "fullName": "AHMET YILMAZ",
+    "title": "Kıdemli Full-Stack Geliştirici",
+    "phone": "+90 (555) 123 45 67",
+    "email": "ahmet.yilmaz@example.com",
+    "corpEmail": "",
+    "location": "İstanbul / Ofiste, Hibrit veya Uzaktan",
+    "militaryLabel": "",
+    "military": "",
+    "website": "https://example.com",
+    "github": "https://github.com/example",
+    "linkedin": "https://linkedin.com/in/example",
+    "googlePlay": "",
+    "links": [
+      {
+        "id": "lnk-1",
+        "label": "GitHub",
+        "displayUrl": "github.com/example",
+        "url": "https://github.com/example",
+        "visible": true
+      },
+      {
+        "id": "lnk-2",
+        "label": "LinkedIn",
+        "displayUrl": "linkedin.com/in/example",
+        "url": "https://linkedin.com/in/example",
+        "visible": true
+      }
+    ]
+  },
+  "summary": "Modern web ve bulut mimarilerinde (React, Next.js, TypeScript, Node.js, PostgreSQL, Docker) 5+ yıl deneyimli Full-Stack Yazılım Mühendisi. Yüksek erişilebilirlikli web platformları, mikroservis mimarileri ve otomasyon süreçleri geliştirme odaklı.",
+  "closingNote": "",
+  "skills": [
+    {
+      "id": "sk-1",
+      "category": "Frontend & Mobil",
+      "items": "React, Next.js, TypeScript, JavaScript, TailwindCSS, HTML5/CSS3"
+    },
+    {
+      "id": "sk-2",
+      "category": "Backend & Veritabanı",
+      "items": "Node.js, Express, Python (FastAPI), REST API, PostgreSQL, Redis, Prisma"
+    },
+    {
+      "id": "sk-3",
+      "category": "DevOps & Araçlar",
+      "items": "Docker, Git, CI/CD, Linux VPS, Nginx, Vitest, Jest"
+    }
+  ],
+  "experiences": [
+    {
+      "id": "exp-1",
+      "role": "Kıdemli Full-Stack Geliştirici",
+      "company": "Teknoloji Çözümleri A.Ş.",
+      "location": "İstanbul (Hibrit)",
+      "date": "2023 – Günümüz",
+      "bullets": [
+        "Aylık yüksek trafikli SaaS sistemlerinin Next.js mimarisine taşınmasını yönetti.",
+        "Veritabanı sorgularını ve önbellekleme katmanını optimize ederek yanıt sürelerini %40 iyileştirdi."
+      ]
+    },
+    {
+      "id": "exp-2",
+      "role": "Yazılım Geliştirici",
+      "company": "Dijital Ürünler Ltd.",
+      "location": "İstanbul (Uzaktan)",
+      "date": "2021 – 2023",
+      "bullets": [
+        "React ve TypeScript ile responsive müşteri panelleri geliştirdi.",
+        "RESTful API servislerini ve kimlik doğrulama akışlarını güvenli hale getirdi."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "id": "prj-1",
+      "name": "TaskFlow — İş Akışı Yönetim Platformu",
+      "tech": "Next.js, TypeScript, PostgreSQL, Docker",
+      "link": "https://github.com/example/taskflow",
+      "visible": true,
+      "bullets": [
+        "Ekipler için gerçek zamanlı görev takibi ve raporlama sunan açık kaynaklı web uygulaması."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "id": "edu-1",
+      "school": "Teknik Üniversite",
+      "degree": "Bilgisayar Mühendisliği (Lisans)",
+      "date": "2016 – 2020",
+      "details": "Mezuniyet: 3.50 / 4.00"
+    }
+  ],
+  "certificates": [
+    {
+      "id": "crt-1",
+      "name": "Bulut Mimarisi Sertifikası",
+      "detail": "Cloud Provider — 2023"
+    }
+  ],
+  "settings": {
+    "fontFamily": "sans",
+    "density": "compact",
+    "pageMarginMm": 14,
+    "showPage2Header": true,
+    "page2HeaderLeftText": "",
+    "page2HeaderRightText": "",
+    "showFooter": true,
+    "showFooterOnSinglePage": false,
+    "footerLeftText": "AHMET YILMAZ — Örnek CV",
+    "footerRightCustomText": "",
+    "showPageNumbers": true,
+    "pageNumberLabel": "Sayfa",
+    "showContinuationLabel": true,
+    "continuationLabelText": "(Devamı)",
+    "sectionTitles": {
+      "summary": "PROFESYONEL ÖZET",
+      "skills": "TEKNİK YETKİNLİKLER & MİMARİ",
+      "experiences": "PROFESYONEL İŞ DENEYİMİ",
+      "projects": "SEÇİLİ PROJELER & AÇIK KAYNAK",
+      "education": "EĞİTİM",
+      "certificates": "SERTİFİKALAR & PROGRAMLAR"
+    },
+    "showPhoto": false,
+    "photoUrl": "",
+    "photoPosition": "left",
+    "photoShape": "rounded",
+    "photoSize": "md",
+    "photoZoom": 1,
+    "photoOffsetY": 0,
+    "accentColor": "navy",
+    "showLinksIcon": true,
+    "forcedBreaks": [],
+    "sectionOrder": [
+      "summary",
+      "skills",
+      "experiences",
+      "projects",
+      "education",
+      "certificates"
+    ],
+    "hiddenSections": [],
+    "skillsLayout": "list",
+    "projectsLayout": "list",
+    "sectionHeaderStyle": "accentBar",
+    "templateLayout": "modern"
+  }
+}
